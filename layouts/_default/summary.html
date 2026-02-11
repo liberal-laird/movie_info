@@ -7,7 +7,7 @@
   {{ if not $poster }}{{ $poster = .Params.cover }}{{ end }}
   {{ if $poster }}
   <figure>
-    <img src="{{ $poster }}" alt="{{ .Title }}" />
+    <img src="{{ $poster }}" alt="{{ .Title }}" loading="lazy" decoding="async" />
   </figure>
   {{ else if not site.Params.noDefaultSummaryCover }}
   <figure>
@@ -15,7 +15,7 @@
     {{ $webp := .Resize (printf "%dx%d webp" .Width .Height) }}
     <picture>
       <source srcset="{{ $webp.RelPermalink }}" type="image/webp" />
-      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" loading="lazy" decoding="async" />
     </picture>
     {{ end }}
   </figure>
