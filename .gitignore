@@ -1,0 +1,20 @@
+# Hugo
+public/
+.hugo_build.lock
+resources/
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+.vercel
+.env*.local

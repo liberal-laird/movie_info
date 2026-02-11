@@ -1,0 +1,28 @@
+baseurl = "https://movie.solotrade.xyz"
+defaultContentLanguage = "zh-tw"
+languageCode = "zh-tw"
+title = "MovieZone 電影資訊"
+theme = "dream"
+
+# 首页每页显示数量（调大后老电影如 2003 魔戒会出现在同一页底部）
+[pagination]
+pagerSize = 100
+
+[params]
+author = "MovieZone"
+headerTitle = "MovieZone 電影"
+siteStartYear = 2026
+
+# 主题颜色
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# Zen 模式
+zenMode = false
+
+# 启用 RSS
+rss = true
+
+# 禁用默认图片
+noDefaultSummaryCover = true
+showSummaryCoverInPost = false

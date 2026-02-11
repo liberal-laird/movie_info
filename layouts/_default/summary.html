@@ -1,0 +1,42 @@
+<a class="card bg-base-100 hover:bg-base-content/10 shadow-xl cursor-pointer dark:border dark:border-base-content/30" href="{{ .RelPermalink }}">
+  {{/* 1. 海报优先 */}}
+  {{ $poster := "" }}
+  {{ with .Params.resources }}
+    {{ with (index (where . "name" "poster") 0) }}{{ $poster = .src }}{{ end }}
+  {{ end }}
+  {{ if not $poster }}{{ $poster = .Params.cover }}{{ end }}
+  {{ if $poster }}
+  <figure>
+    <img src="{{ $poster }}" alt="{{ .Title }}" />
+  </figure>
+  {{ else if not site.Params.noDefaultSummaryCover }}
+  <figure>
+    {{ with resources.Get (printf "images/default%d.jpg" (index (seq 6 | shuffle) 0)) }}
+    {{ $webp := .Resize (printf "%dx%d webp" .Width .Height) }}
+    <picture>
+      <source srcset="{{ $webp.RelPermalink }}" type="image/webp" />
+      <img src="{{ .RelPermalink }}" alt="{{ .Title }}" />
+    </picture>
+    {{ end }}
+  </figure>
+  {{ end }}
+
+  <div class="card-body">
+    {{/* 标题 + 评分（紧贴标题下） */}}
+    <div class="space-y-0">
+      <h2 class="card-title text-base leading-tight">{{ .Title }}</h2>
+      <p class="text-base-content/80 text-sm leading-tight" style="margin-top: 0.15em;">
+        ⭐ {{ .Param "rating" | default "—" }}/10 {{ with .Param "ratingCount" }}({{ . }}票){{ else }}(0票){{ end }}
+      </p>
+    </div>
+
+    <p class="date text-base-content/60">
+    {{ if site.Params.Experimental.jsDate }}
+      <span data-format="luxon">{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}</span>
+    {{ else }}
+      {{ .Date | time.Format "Monday, Jan 2, 2006" }}
+    {{ end }}
+    </p>
+
+  </div>
+</a>

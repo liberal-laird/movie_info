@@ -1,0 +1,9 @@
+{
+  "name": "movie-site",
+  "version": "1.0.0",
+  "scripts": {
+    "vercel-build": "bash vercel_build.sh",
+    "build": "bash vercel_build.sh"
+  },
+  "dependencies": {}
+}
