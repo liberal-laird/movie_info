@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1475490.jpg"
 categories: ["\u60ca\u609a", "\u6050\u6016", "\u5267\u60c5"]
 tags: ["\u60ca\u609a", "\u6050\u6016", "\u5267\u60c5"]
-rating: 6.125
-ratingCount: 8
+rating: 5.7
+ratingCount: 10
 plot: ""
 imdbId: "tt11609626"
 tmdbId: 1475490
@@ -25,7 +25,7 @@ The Calling Witch
 
 ## 評分
 
-⭐ 6.125/10 (8 票)
+⭐ 5.7/10 (10 票)
 
 ## 主要演員
 

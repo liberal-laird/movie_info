@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1272837.jpg"
 categories: ["\u6050\u6016", "\u60ca\u609a", "\u79d1\u5e7b"]
 tags: ["\u6050\u6016", "\u60ca\u609a", "\u79d1\u5e7b"]
-rating: 7.3
-ratingCount: 317
+rating: 7.267
+ratingCount: 322
 plot: ""
 imdbId: "tt32141377"
 tmdbId: 1272837
@@ -25,7 +25,7 @@ tmdbId: 1272837
 
 ## 評分
 
-⭐ 7.3/10 (317 票)
+⭐ 7.267/10 (322 票)
 
 ## 主要演員
 

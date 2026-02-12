@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1317288.jpg"
 categories: ["\u5267\u60c5"]
 tags: ["\u5267\u60c5"]
-rating: 7.678
-ratingCount: 559
+rating: 7.7
+ratingCount: 618
 plot: "為了實現一個無人相信的偉大夢想，馬提去了一趟地獄。年輕迷人的馬提，渴望名聲、榮耀，以及遙不可及的「世界乒乓球冠軍」頭銜。為了夢想，他什麼都能做到。穿越紐約、巴黎、倫敦、開羅與東京，他在無數的挫折與考驗中前行，遇見了摯友、戀人與夥伴，也一次次在勝敗之間重生。最終，他開創了自己的偉大道路，也領悟了榮光的真正意義。"
 imdbId: "tt32916440"
 tmdbId: 1317288
@@ -25,7 +25,7 @@ Marty Supreme
 
 ## 評分
 
-⭐ 7.678/10 (559 票)
+⭐ 7.7/10 (618 票)
 
 ## 主要演員
 
@@ -38,4 +38,4 @@ Marty Supreme
 - Abel Ferrara (Ezra Mishkin)
 - Emory Cohen (Ira Mizler)
 
-![Backdrop](https://image.tmdb.org/t/p/original/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg)
+![Backdrop](https://image.tmdb.org/t/p/original/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg)

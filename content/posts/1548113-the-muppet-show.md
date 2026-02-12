@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1548113.jpg"
 categories: ["\u559c\u5267", "\u5bb6\u5ead", "\u97f3\u4e50", "\u7535\u89c6\u7535\u5f71"]
 tags: ["\u559c\u5267", "\u5bb6\u5ead", "\u97f3\u4e50", "\u7535\u89c6\u7535\u5f71"]
-rating: 6.99
-ratingCount: 49
+rating: 7.019
+ratingCount: 54
 plot: "《大青蛙布偶秀》來了！科米、豬小姐佩姬和備受喜愛的布偶們全員回歸，帶來全新的特別節目。當布偶們與特別嘉賓莎賓娜·卡本特再度登上經典的布偶劇院舞台，勢必會充滿音樂、喜劇和一籮筐的混亂場面！"
 imdbId: "tt37969426"
 tmdbId: 1548113
@@ -25,7 +25,7 @@ The Muppet Show
 
 ## 評分
 
-⭐ 6.99/10 (49 票)
+⭐ 7.019/10 (54 票)
 
 ## 主要演員
 

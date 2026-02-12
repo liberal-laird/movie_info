@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/957119.jpg"
 categories: ["\u559c\u5267", "\u7231\u60c5"]
 tags: ["\u559c\u5267", "\u7231\u60c5"]
-rating: 6.19
-ratingCount: 163
+rating: 6.182
+ratingCount: 165
 plot: ""
 imdbId: "tt19704542"
 tmdbId: 957119
@@ -25,7 +25,7 @@ Sidelined: The QB and Me
 
 ## 評分
 
-⭐ 6.19/10 (163 票)
+⭐ 6.182/10 (165 票)
 
 ## 主要演員
 

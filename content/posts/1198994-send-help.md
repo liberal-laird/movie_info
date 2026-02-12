@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1198994.jpg"
 categories: ["\u6050\u6016", "\u60ca\u609a", "\u559c\u5267"]
 tags: ["\u6050\u6016", "\u60ca\u609a", "\u559c\u5267"]
-rating: 6.998
-ratingCount: 209
+rating: 7.018
+ratingCount: 224
 plot: "兩名同事在飛機失事後，成為唯一倖存者被困在荒島上。他們必須放下過往恩怨、共同求生，但最終演變成一場不安又充滿黑色幽默的意志與智慧對決……"
 imdbId: "tt8036976"
 tmdbId: 1198994
@@ -25,7 +25,7 @@ Send Help
 
 ## 評分
 
-⭐ 6.998/10 (209 票)
+⭐ 7.018/10 (224 票)
 
 ## 主要演員
 

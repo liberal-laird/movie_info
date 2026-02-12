@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1198984.jpg"
 categories: ["\u6050\u6016", "\u60ca\u609a"]
 tags: ["\u6050\u6016", "\u60ca\u609a"]
-rating: 6.2
-ratingCount: 72
+rating: 6.145
+ratingCount: 76
 plot: "一場災難性的軍事浩劫之後，死者不僅復活，還會獵殺人類。艾娃尋找失蹤的丈夫，但她發現的卻遠比丈夫可怕得多。"
 imdbId: "tt29713093"
 tmdbId: 1198984
@@ -25,7 +25,7 @@ We Bury the Dead
 
 ## 評分
 
-⭐ 6.2/10 (72 票)
+⭐ 6.145/10 (76 票)
 
 ## 主要演員
 

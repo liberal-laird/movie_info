@@ -7,7 +7,7 @@ Cover: "/posters/1010755.jpg"
 categories: ["\u6050\u6016", "\u60ca\u609a"]
 tags: ["\u6050\u6016", "\u60ca\u609a"]
 rating: 6.0
-ratingCount: 5
+ratingCount: 7
 plot: ""
 imdbId: "tt28682323"
 tmdbId: 1010755
@@ -25,7 +25,7 @@ The Strangers: Chapter 3
 
 ## 評分
 
-⭐ 6.0/10 (5 票)
+⭐ 6.0/10 (7 票)
 
 ## 主要演員
 

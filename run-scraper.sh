@@ -1,5 +1,6 @@
 #!/bin/bash
 # MovieZone 爬蟲自動執行腳本
+# Cron: 0 8 * * *
 # 用法: ./run-scraper.sh
 
 set -e
@@ -8,10 +9,10 @@ echo "🎬 MovieZone 爬蟲開始執行"
 echo "=========================="
 
 # 進入專案目錄
-cd /root/.openclaw/workspace/movie-site
+cd /root/movie_info
 
 # 設置 API Key
-export TMDB_API_KEY=${TMDB_API_KEY:-"API_KEY_PLACEHOLDER"}
+export TMDB_API_KEY="API_KEY_PLACEHOLDER"
 
 # 運行爬蟲
 echo "📡 運行 TMDb 爬蟲..."

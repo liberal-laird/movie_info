@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/680493.jpg"
 categories: ["\u6050\u6016", "\u60ac\u7591"]
 tags: ["\u6050\u6016", "\u60ac\u7591"]
-rating: 5.104
-ratingCount: 111
+rating: 5.2
+ratingCount: 129
 plot: "在失去畢生摯愛瑪麗後，傷心欲絕的詹姆斯始終無法走出陰影。然而某一天，詹姆斯收到一封瑪麗自沉默之丘寄出的信。為了再見上瑪麗一面並找出真相，詹姆斯重返兩人當初邂逅的小鎮沉默之丘，但他卻發現這座小鎮已淪為被恐怖生物占據的荒涼異境……"
 imdbId: "tt22868010"
 tmdbId: 680493
@@ -25,7 +25,7 @@ Return to Silent Hill
 
 ## 評分
 
-⭐ 5.104/10 (111 票)
+⭐ 5.2/10 (129 票)
 
 ## 主要演員
 
@@ -38,4 +38,4 @@ Return to Silent Hill
 - Eve Macklin (Kaitlyn)
 - Emily Carding (Dara)
 
-![Backdrop](https://image.tmdb.org/t/p/original/nTbO6UF944b0VZrgypMK5rFYRSW.jpg)
+![Backdrop](https://image.tmdb.org/t/p/original/sVB8MrQr0x7sqAj3KVpAqpCbapT.jpg)

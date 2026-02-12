@@ -1,13 +1,13 @@
 ---
 title: "Iron Lung"
 originalTitle: "Iron Lung"
-date: 2026-01-29T00:00:00+08:00
+date: 2026-01-30T00:00:00+08:00
 draft: false
 Cover: "/posters/1116201.jpg"
 categories: ["\u6050\u6016", "\u79d1\u5e7b", "\u60ac\u7591"]
 tags: ["\u6050\u6016", "\u79d1\u5e7b", "\u60ac\u7591"]
 rating: 7.4
-ratingCount: 75
+ratingCount: 80
 plot: ""
 imdbId: "tt27564844"
 tmdbId: 1116201
@@ -25,7 +25,7 @@ Iron Lung
 
 ## 評分
 
-⭐ 7.4/10 (75 票)
+⭐ 7.4/10 (80 票)
 
 ## 主要演員
 

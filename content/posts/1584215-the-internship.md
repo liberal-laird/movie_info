@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1584215.jpg"
 categories: ["\u52a8\u4f5c"]
 tags: ["\u52a8\u4f5c"]
-rating: 6.143
-ratingCount: 42
+rating: 6.151
+ratingCount: 43
 plot: "蕾妮自幼被納入美國中情局的「實習生」秘密計畫，被訓練成冷酷無情的菁英殺手。長大後的她，卻集結其他的實習生，回頭對抗這個奪走她童年的機構。面對親手培育出的殺手造反，中情局不得不動用同樣致命的武力，迎擊蕾妮的團隊。"
 imdbId: "tt38238651"
 tmdbId: 1584215
@@ -25,7 +25,7 @@ The Internship
 
 ## 評分
 
-⭐ 6.143/10 (42 票)
+⭐ 6.151/10 (43 票)
 
 ## 主要演員
 
