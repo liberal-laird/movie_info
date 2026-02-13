@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1618945.jpg"
 categories: ["\u7231\u60c5", "\u559c\u5267"]
 tags: ["\u7231\u60c5", "\u559c\u5267"]
-rating: 5.95
-ratingCount: 20
+rating: 6.136
+ratingCount: 22
 plot: "譚朵情場屢屢失意就算了，偏偏好友旅行回家時身邊竟多了一個未婚妻，害她不得不正視心中萌生的醋意。"
 imdbId: "tt39354078"
 tmdbId: 1618945
@@ -25,7 +25,7 @@ Yoh! Bestie
 
 ## 評分
 
-⭐ 5.95/10 (20 票)
+⭐ 6.136/10 (22 票)
 
 ## 主要演員
 

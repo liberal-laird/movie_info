@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1054867.jpg"
 categories: ["\u60ca\u609a", "\u72af\u7f6a", "\u52a8\u4f5c"]
 tags: ["\u60ca\u609a", "\u72af\u7f6a", "\u52a8\u4f5c"]
-rating: 7.421
-ratingCount: 2770
+rating: 7.4
+ratingCount: 2775
 plot: "曾參與多次反抗軍運動的巴柏，為了養育女兒便漸漸淡出抗爭前線，沒想到他的反叛事蹟竟在多年後捲土重來，軍人史蒂芬在16年後突然找上門來，大動作展開搜捕巴柏的女兒。巴柏在無路可退的絕境下，只好聯絡過去的革命夥伴，並與女兒的老師一同展開拯救女兒的計畫。"
 imdbId: "tt30144839"
 tmdbId: 1054867
@@ -25,7 +25,7 @@ One Battle After Another
 
 ## 評分
 
-⭐ 7.421/10 (2770 票)
+⭐ 7.4/10 (2775 票)
 
 ## 主要演員
 

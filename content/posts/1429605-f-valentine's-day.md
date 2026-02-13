@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1429605.jpg"
 categories: ["\u7231\u60c5", "\u559c\u5267"]
 tags: ["\u7231\u60c5", "\u559c\u5267"]
-rating: 5.647
-ratingCount: 17
+rating: 5.978
+ratingCount: 23
 plot: ""
 imdbId: "tt34622232"
 tmdbId: 1429605
@@ -25,7 +25,7 @@ F Valentine's Day
 
 ## 評分
 
-⭐ 5.647/10 (17 票)
+⭐ 5.978/10 (23 票)
 
 ## 主要演員
 

@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1601243.jpg"
 categories: ["\u52a8\u4f5c", "\u72af\u7f6a", "\u60ca\u609a"]
 tags: ["\u52a8\u4f5c", "\u72af\u7f6a", "\u60ca\u609a"]
-rating: 6.1
-ratingCount: 17
+rating: 6.333
+ratingCount: 18
 plot: ""
 imdbId: "tt27674706"
 tmdbId: 1601243
@@ -25,7 +25,7 @@ Oscar Shaw
 
 ## 評分
 
-⭐ 6.1/10 (17 票)
+⭐ 6.333/10 (18 票)
 
 ## 主要演員
 

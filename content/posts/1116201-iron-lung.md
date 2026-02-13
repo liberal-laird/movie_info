@@ -7,7 +7,7 @@ Cover: "/posters/1116201.jpg"
 categories: ["\u6050\u6016", "\u79d1\u5e7b", "\u60ac\u7591"]
 tags: ["\u6050\u6016", "\u79d1\u5e7b", "\u60ac\u7591"]
 rating: 7.4
-ratingCount: 80
+ratingCount: 82
 plot: ""
 imdbId: "tt27564844"
 tmdbId: 1116201
@@ -25,7 +25,7 @@ Iron Lung
 
 ## 評分
 
-⭐ 7.4/10 (80 票)
+⭐ 7.4/10 (82 票)
 
 ## 主要演員
 

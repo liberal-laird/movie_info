@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1206008.jpg"
 categories: ["\u559c\u5267", "\u5267\u60c5"]
 tags: ["\u559c\u5267", "\u5267\u60c5"]
-rating: 5.8
-ratingCount: 63
+rating: 5.875
+ratingCount: 64
 plot: "本片主角是一位充滿理想的年輕女性，在處理家庭糾結與熱愛的工作中，生活兩頭燒的故事。這是一部全新的溫馨喜劇，由詹姆斯L布魯克斯編導，劇情講述在面對最愛的家人，要如何解開家庭糾葛。"
 imdbId: "tt30096221"
 tmdbId: 1206008
@@ -25,7 +25,7 @@ Ella McCay
 
 ## 評分
 
-⭐ 5.8/10 (63 票)
+⭐ 5.875/10 (64 票)
 
 ## 主要演員
 
