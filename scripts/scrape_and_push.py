@@ -52,7 +52,30 @@ def slugify(text):
     text = re.sub(r'[-\s]+', '-', text)
     return text.strip('-').lower()
 
-def format_movie_markdown(movie):
+def download_poster(poster_path, movie_id, save_dir):
+    """下载海报"""
+    if not poster_path:
+        return None
+    
+    filename = f"{movie_id}.jpg"
+    filepath = os.path.join(save_dir, filename)
+    
+    # 已存在则跳过
+    if os.path.exists(filepath):
+        return filename
+    
+    url = f"{POSTER_BASE_URL}{poster_path}"
+    try:
+        resp = requests.get(url, timeout=30)
+        if resp.status_code == 200:
+            with open(filepath, "wb") as f:
+                f.write(resp.content)
+            return filename
+    except Exception as e:
+        print(f"❌ 下载海报失败: {e}")
+    return None
+
+def format_movie_markdown(movie, save_dir):
     """生成单部电影的 Markdown"""
     movie_id = movie.get("id")
     title = movie.get("title", "未知")
@@ -83,9 +106,9 @@ def format_movie_markdown(movie):
     # IMDB ID
     imdb_id = details.get("imdb_id", "")
     
-    # 海报
+    # 海报下载
     poster_path = movie.get("poster_path", "")
-    poster_file = f"{movie_id}.jpg"
+    poster_file = download_poster(poster_path, movie_id, save_dir) or f"{movie_id}.jpg"
     
     # 生成 slug
     movie_slug = slugify(original_title)
@@ -162,10 +185,13 @@ def main():
     movies = get_upcoming_movies()
     print(f"📊 获取到 {len(movies)} 部电影")
     
+    save_dir = os.path.join(REPO_DIR, "static/posters")
+    os.makedirs(save_dir, exist_ok=True)
+    
     count = 0
     for movie in movies:
         try:
-            filepath, md_content = format_movie_markdown(movie)
+            filepath, md_content = format_movie_markdown(movie, save_dir)
             
             # 确保目录存在
             os.makedirs(os.path.dirname(filepath), exist_ok=True)
