@@ -1,31 +1,31 @@
 ---
-title: "Iron Lung"
+title: "鐵肺"
 originalTitle: "Iron Lung"
 date: 2026-01-30T00:00:00+08:00
 draft: false
 Cover: "/posters/1116201.jpg"
-categories: ["\u6050\u6016", "\u79d1\u5e7b", "\u60ac\u7591"]
-tags: ["\u6050\u6016", "\u79d1\u5e7b", "\u60ac\u7591"]
-rating: 7.4
-ratingCount: 82
-plot: ""
+categories: ["恐怖", "科幻", "悬疑"]
+tags: ["恐怖", "科幻", "悬疑"]
+rating: 7.390
+ratingCount: 86
+plot: "宇宙中移居的恆星與行星突然消失，於是中心體派出一名囚犯駕駛一艘名為「鐵肺」的生鏽小型潛艇，潛入荒涼衛星的血海之中，尋求人類最後生機。沒想到探查過程發現了更大的祕密……"
 imdbId: "tt27564844"
 tmdbId: 1116201
 ---
 
 ![Poster](/posters/1116201.jpg)
 
-# Iron Lung
+# 鐵肺
 
 Iron Lung
 
 ## 劇情簡介
 
-
+宇宙中移居的恆星與行星突然消失，於是中心體派出一名囚犯駕駛一艘名為「鐵肺」的生鏽小型潛艇，潛入荒涼衛星的血海之中，尋求人類最後生機。沒想到探查過程發現了更大的祕密……
 
 ## 評分
 
-⭐ 7.4/10 (82 票)
+⭐ 7.390/10 (86 票)
 
 ## 主要演員
 
