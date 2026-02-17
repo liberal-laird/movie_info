@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1316092.jpg"
 categories: ["爱情", "剧情"]
 tags: ["爱情", "剧情"]
-rating: 6.806
-ratingCount: 152
+rating: 6.764
+ratingCount: 184
 plot: "以獨特風格重新詮釋同名小說。青梅竹馬凱西和希斯克里夫萌生禁忌之愛，卻在命運捉弄下分離。沒想到希斯克里夫多年後回到咆哮山莊，兩人重逢掀起了家庭風暴，發展出一段充滿慾望、愛情與瘋狂的史詩故事。"
 imdbId: "tt32897959"
 tmdbId: 1316092
@@ -25,7 +25,7 @@ tmdbId: 1316092
 
 ## 評分
 
-⭐ 6.806/10 (152 票)
+⭐ 6.764/10 (184 票)
 
 ## 主要演員
 
@@ -38,4 +38,4 @@ tmdbId: 1316092
 - Ewan Mitchell (Joseph)
 - Amy Morgan (Zillah)
 
-![Backdrop](https://image.tmdb.org/t/p/original/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg)
+![Backdrop](https://image.tmdb.org/t/p/original/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg)
