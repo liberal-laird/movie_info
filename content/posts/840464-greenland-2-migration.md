@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/840464.jpg"
 categories: ["冒险", "惊悚", "科幻"]
 tags: ["冒险", "惊悚", "科幻"]
-rating: 6.534
-ratingCount: 446
+rating: 6.531
+ratingCount: 459
 plot: "倖存的蓋瑞提一家必須離開安全的格陵蘭島避難所，踏上危險的旅程，穿越歐洲滿目瘡痍的冰凍荒原，尋找新的家園。"
 imdbId: "tt14850054"
 tmdbId: 840464
@@ -25,7 +25,7 @@ Greenland 2: Migration
 
 ## 評分
 
-⭐ 6.534/10 (446 票)
+⭐ 6.531/10 (459 票)
 
 ## 主要演員
 
