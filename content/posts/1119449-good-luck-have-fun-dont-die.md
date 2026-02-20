@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1119449.jpg"
 categories: ["科幻", "动作", "冒险", "喜剧"]
 tags: ["科幻", "动作", "冒险", "喜剧"]
-rating: 7.000
-ratingCount: 11
+rating: 7.500
+ratingCount: 14
 plot: ""
 imdbId: "tt1341338"
 tmdbId: 1119449
@@ -25,7 +25,7 @@ Good Luck, Have Fun, Don't Die
 
 ## 評分
 
-⭐ 7.000/10 (11 票)
+⭐ 7.500/10 (14 票)
 
 ## 主要演員
 

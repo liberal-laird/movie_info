@@ -1,5 +1,5 @@
 # Hugo
-public/
+# public/  # 注释掉以便提交部署日志
 .hugo_build.lock
 resources/
 
