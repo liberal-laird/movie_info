@@ -187,7 +187,7 @@ def git_commit_push(message):
     if push_result.returncode == 0:
         print("✅ 推送成功")
         
-        # 生成 commit 日志文件
+        # 生成 commit 日志文件 (在 Hugo 构建后生成)
         log_result = subprocess.run(
             ["git", "log", "-1", "--pretty=format:%H%n%an%n%ae%n%ci%n%s"],
             capture_output=True, text=True, cwd=REPO_DIR
@@ -203,7 +203,7 @@ def git_commit_push(message):
             }
             
             # 写入日志文件
-            log_file = os.path.join(REPO_DIR, "public/deploy_log.txt")
+            log_file = os.path.join(REPO_DIR, "public", "deploy_log.txt")
             os.makedirs(os.path.dirname(log_file), exist_ok=True)
             with open(log_file, "w", encoding="utf-8") as f:
                 f.write(f"Commit: {commit_info['hash']}\n")
@@ -211,10 +211,20 @@ def git_commit_push(message):
                 f.write(f"Date: {commit_info['date']}\n")
                 f.write(f"Message: {commit_info['message']}\n")
             
+            # 重新构建 Hugo (会覆盖 public)
+            subprocess.run(["hugo", "-D", "--quiet"], capture_output=True, cwd=REPO_DIR)
+            
+            # 再次写入日志文件
+            with open(log_file, "w", encoding="utf-8") as f:
+                f.write(f"Commit: {commit_info['hash']}\n")
+                f.write(f"Author: {commit_info['author']} <{commit_info['email']}>\n")
+                f.write(f"Date: {commit_info['date']}\n")
+                f.write(f"Message: {commit_info['message']}\n")
+            
             # 提交日志文件
-            subprocess.run(["git", "add", "public/deploy_log.txt"], capture_output=True)
-            subprocess.run(["git", "commit", "-m", "chore: 更新部署日志"], capture_output=True)
-            subprocess.run(["git", "push", "origin", "main"], capture_output=True)
+            subprocess.run(["git", "add", "public/deploy_log.txt"], capture_output=True, cwd=REPO_DIR)
+            subprocess.run(["git", "commit", "-m", "chore: 更新部署日志"], capture_output=True, cwd=REPO_DIR)
+            subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True, cwd=REPO_DIR)
         
         return True
     else:
