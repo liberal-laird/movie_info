@@ -166,6 +166,19 @@ def git_commit_push(message):
         print("没有文件变更")
         return False
     
+    # Hugo 测试构建
+    print("🔨 测试 Hugo 构建...")
+    hugo_result = subprocess.run(
+        ["hugo", "-D", "--quiet"],
+        capture_output=True, text=True, cwd=REPO_DIR
+    )
+    if hugo_result.returncode != 0:
+        print(f"❌ Hugo 构建失败:\n{hugo_result.stderr}")
+        # 回滚 git add
+        subprocess.run(["git", "reset", "HEAD"], capture_output=True)
+        return False
+    print("✅ Hugo 构建通过")
+    
     # Commit
     subprocess.run(["git", "commit", "-m", message], capture_output=True)
     
