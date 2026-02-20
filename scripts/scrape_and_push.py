@@ -186,6 +186,36 @@ def git_commit_push(message):
     push_result = subprocess.run(["git", "push", "origin", "main"], capture_output=True, text=True)
     if push_result.returncode == 0:
         print("✅ 推送成功")
+        
+        # 生成 commit 日志文件
+        log_result = subprocess.run(
+            ["git", "log", "-1", "--pretty=format:%H%n%an%n%ae%n%ci%n%s"],
+            capture_output=True, text=True, cwd=REPO_DIR
+        )
+        if log_result.returncode == 0:
+            log_lines = log_result.stdout.strip().split('\n')
+            commit_info = {
+                'hash': log_lines[0] if len(log_lines) > 0 else '',
+                'author': log_lines[1] if len(log_lines) > 1 else '',
+                'email': log_lines[2] if len(log_lines) > 2 else '',
+                'date': log_lines[3] if len(log_lines) > 3 else '',
+                'message': log_lines[4] if len(log_lines) > 4 else '',
+            }
+            
+            # 写入日志文件
+            log_file = os.path.join(REPO_DIR, "public/deploy_log.txt")
+            os.makedirs(os.path.dirname(log_file), exist_ok=True)
+            with open(log_file, "w", encoding="utf-8") as f:
+                f.write(f"Commit: {commit_info['hash']}\n")
+                f.write(f"Author: {commit_info['author']} <{commit_info['email']}>\n")
+                f.write(f"Date: {commit_info['date']}\n")
+                f.write(f"Message: {commit_info['message']}\n")
+            
+            # 提交日志文件
+            subprocess.run(["git", "add", "public/deploy_log.txt"], capture_output=True)
+            subprocess.run(["git", "commit", "-m", "chore: 更新部署日志"], capture_output=True)
+            subprocess.run(["git", "push", "origin", "main"], capture_output=True)
+        
         return True
     else:
         print(f"❌ 推送失败: {push_result.stderr}")
