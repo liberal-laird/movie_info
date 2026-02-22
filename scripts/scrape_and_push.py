@@ -80,8 +80,6 @@ def format_movie_markdown(movie, save_dir):
     movie_id = movie.get("id")
     title = movie.get("title", "未知")
     original_title = movie.get("original_title", title)
-    # 使用今天日期，避免 Hugo 默认不发布未来内容
-    release_date = datetime.now().strftime("%Y-%m-%d")
     overview = movie.get("overview", "暂无简介")
     rating = movie.get("vote_average", 0)
     rating_count = movie.get("vote_count", 0)
@@ -116,11 +114,12 @@ def format_movie_markdown(movie, save_dir):
     filename = f"{movie_id}-{movie_slug}.md"
     filepath = os.path.join(REPO_DIR, "content/posts", filename)
     
-    # Markdown 内容
+    # Markdown 内容 (使用当前时间)
+    current_time = datetime.now().strftime("%Y-%m-%dT%H:%M:%S+08:00")
     md = f"""---
 title: "{title}"
 originalTitle: "{original_title}"
-date: {release_date}T00:00:00+08:00
+date: {current_time}
 draft: false
 Cover: "/posters/{poster_file}"
 categories: {categories}
