@@ -80,7 +80,8 @@ def format_movie_markdown(movie, save_dir):
     movie_id = movie.get("id")
     title = movie.get("title", "未知")
     original_title = movie.get("original_title", title)
-    release_date = movie.get("release_date", "未知")
+    # 使用今天日期，避免 Hugo 默认不发布未来内容
+    release_date = datetime.now().strftime("%Y-%m-%d")
     overview = movie.get("overview", "暂无简介")
     rating = movie.get("vote_average", 0)
     rating_count = movie.get("vote_count", 0)
