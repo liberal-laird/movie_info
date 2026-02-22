@@ -3,7 +3,6 @@ title: "大青蛙布偶秀：特別場"
 originalTitle: "The Muppet Show"
 date: 2026-02-03T00:00:00+08:00
 draft: false
-Cover: "/posters/1548113.jpg"
 categories: ["\u559c\u5267", "\u5bb6\u5ead", "\u97f3\u4e50", "\u7535\u89c6\u7535\u5f71"]
 tags: ["\u559c\u5267", "\u5bb6\u5ead", "\u97f3\u4e50", "\u7535\u89c6\u7535\u5f71"]
 rating: 7.035

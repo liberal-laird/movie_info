@@ -3,7 +3,6 @@ title: "只是一場意外"
 originalTitle: "Un simple accident"
 date: 2025-09-27T00:00:00+08:00
 draft: false
-Cover: "/posters/1456349.jpg"
 categories: ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a", "\u60ac\u7591"]
 tags: ["\u5267\u60c5", "\u60ca\u609a", "\u72af\u7f6a", "\u60ac\u7591"]
 rating: 7.2

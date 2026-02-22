@@ -3,7 +3,6 @@ title: "平安夜，殺人夜"
 originalTitle: "Silent Night, Deadly Night"
 date: 2025-12-11T00:00:00+08:00
 draft: false
-Cover: "/posters/801937.jpg"
 categories: ["\u6050\u6016", "\u60ca\u609a"]
 tags: ["\u6050\u6016", "\u60ca\u609a"]
 rating: 6.3

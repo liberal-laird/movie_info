@@ -3,7 +3,6 @@ title: "實習生"
 originalTitle: "The Internship"
 date: 2026-01-13T00:00:00+08:00
 draft: false
-Cover: "/posters/1584215.jpg"
 categories: ["\u52a8\u4f5c"]
 tags: ["\u52a8\u4f5c"]
 rating: 6.239

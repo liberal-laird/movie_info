@@ -3,7 +3,6 @@ title: "媽媽未成年"
 originalTitle: "Jeunes mères"
 date: 2025-05-23T00:00:00+08:00
 draft: false
-Cover: "/posters/1242015.jpg"
 categories: ["剧情"]
 tags: ["剧情"]
 rating: 6.500

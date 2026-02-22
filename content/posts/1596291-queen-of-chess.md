@@ -3,7 +3,6 @@ title: "獅心棋后：改寫棋局的天才少女"
 originalTitle: "Queen of Chess"
 date: 2026-01-27T00:00:00+08:00
 draft: false
-Cover: "/posters/1596291.jpg"
 categories: ["\u7eaa\u5f55"]
 tags: ["\u7eaa\u5f55"]
 rating: 7.667

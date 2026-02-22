@@ -3,7 +3,6 @@ title: "F Valentine's Day"
 originalTitle: "F Valentine's Day"
 date: 2026-02-12T00:00:00+08:00
 draft: false
-Cover: "/posters/1429605.jpg"
 categories: ["\u7231\u60c5", "\u559c\u5267"]
 tags: ["\u7231\u60c5", "\u559c\u5267"]
 rating: 5.978

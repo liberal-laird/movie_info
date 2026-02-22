@@ -3,7 +3,6 @@ title: "告解"
 originalTitle: "The Confession"
 date: 2026-01-08T00:00:00+08:00
 draft: false
-Cover: "/posters/1454741.jpg"
 categories: ["\u6050\u6016"]
 tags: ["\u6050\u6016"]
 rating: 5.524

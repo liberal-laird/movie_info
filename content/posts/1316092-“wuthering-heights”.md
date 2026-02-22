@@ -3,7 +3,6 @@ title: "“咆哮山莊”"
 originalTitle: "“Wuthering Heights”"
 date: 2026-02-11T00:00:00+08:00
 draft: false
-Cover: "/posters/1316092.jpg"
 categories: ["\u5267\u60c5", "\u7231\u60c5"]
 tags: ["\u5267\u60c5", "\u7231\u60c5"]
 rating: 7.582

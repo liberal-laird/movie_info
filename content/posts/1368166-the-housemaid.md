@@ -3,7 +3,6 @@ title: "家弒服務"
 originalTitle: "The Housemaid"
 date: 2025-12-18T00:00:00+08:00
 draft: false
-Cover: "/posters/1368166.jpg"
 categories: ["\u60ac\u7591", "\u60ca\u609a"]
 tags: ["\u60ac\u7591", "\u60ca\u609a"]
 rating: 7.198

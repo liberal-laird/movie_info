@@ -3,7 +3,6 @@ title: "恩典"
 originalTitle: "La grazia"
 date: 2025-12-05T00:00:00+08:00
 draft: false
-Cover: "/posters/1397364.jpg"
 categories: ["\u5267\u60c5"]
 tags: ["\u5267\u60c5"]
 rating: 7.514

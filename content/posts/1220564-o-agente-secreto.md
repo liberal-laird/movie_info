@@ -3,7 +3,6 @@ title: "這不只是個間諜故事"
 originalTitle: "O Agente Secreto"
 date: 2025-07-23T00:00:00+08:00
 draft: false
-Cover: "/posters/1220564.jpg"
 categories: ["\u72af\u7f6a", "\u5267\u60c5", "\u60ca\u609a"]
 tags: ["\u72af\u7f6a", "\u5267\u60c5", "\u60ca\u609a"]
 rating: 7.545

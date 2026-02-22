@@ -3,7 +3,6 @@ title: "殺人鯨"
 originalTitle: "Killer Whale"
 date: 2026-01-16T00:00:00+08:00
 draft: false
-Cover: "/posters/1412598.jpg"
 categories: ["\u60ca\u609a", "\u6050\u6016", "\u52a8\u4f5c", "\u60ac\u7591", "\u79d1\u5e7b"]
 tags: ["\u60ca\u609a", "\u6050\u6016", "\u52a8\u4f5c", "\u60ac\u7591", "\u79d1\u5e7b"]
 rating: 5.9

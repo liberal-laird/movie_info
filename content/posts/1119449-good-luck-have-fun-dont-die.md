@@ -3,7 +3,6 @@ title: "Good Luck, Have Fun, Don't Die"
 originalTitle: "Good Luck, Have Fun, Don't Die"
 date: 2026-02-13T00:00:00+08:00
 draft: false
-Cover: "/posters/1119449.jpg"
 categories: ["科幻", "动作", "冒险", "喜剧"]
 tags: ["科幻", "动作", "冒险", "喜剧"]
 rating: 7.421

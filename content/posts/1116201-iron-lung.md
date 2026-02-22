@@ -3,7 +3,6 @@ title: "鐵肺"
 originalTitle: "Iron Lung"
 date: 2026-01-30T00:00:00+08:00
 draft: false
-Cover: "/posters/1116201.jpg"
 categories: ["恐怖", "科幻", "悬疑"]
 tags: ["恐怖", "科幻", "悬疑"]
 rating: 7.400

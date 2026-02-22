@@ -3,7 +3,6 @@ title: "邦尼殺死他"
 originalTitle: "Dust Bunny"
 date: 2025-12-11T00:00:00+08:00
 draft: false
-Cover: "/posters/1043197.jpg"
 categories: ["奇幻", "动作", "惊悚"]
 tags: ["奇幻", "动作", "惊悚"]
 rating: 6.700

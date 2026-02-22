@@ -3,7 +3,6 @@ title: "重裝制裁"
 originalTitle: "A Working Man"
 date: 2025-03-26T00:00:00+08:00
 draft: false
-Cover: "/posters/1197306.jpg"
 categories: ["\u52a8\u4f5c", "\u72af\u7f6a", "\u60ca\u609a"]
 tags: ["\u52a8\u4f5c", "\u72af\u7f6a", "\u60ca\u609a"]
 rating: 6.685

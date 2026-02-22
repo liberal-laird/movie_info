@@ -3,7 +3,6 @@ title: "不完美的完美"
 originalTitle: "Ella McCay"
 date: 2025-12-11T00:00:00+08:00
 draft: false
-Cover: "/posters/1206008.jpg"
 categories: ["\u559c\u5267", "\u5267\u60c5"]
 tags: ["\u559c\u5267", "\u5267\u60c5"]
 rating: 5.875

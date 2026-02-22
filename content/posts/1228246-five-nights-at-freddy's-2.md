@@ -3,7 +3,6 @@ title: "佛萊迪餐館之五夜驚魂2"
 originalTitle: "Five Nights at Freddy's 2"
 date: 2025-12-03T00:00:00+08:00
 draft: false
-Cover: "/posters/1228246.jpg"
 categories: ["\u6050\u6016", "\u60ca\u609a"]
 tags: ["\u6050\u6016", "\u60ca\u609a"]
 rating: 6.7
