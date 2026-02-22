@@ -3,6 +3,7 @@ title: "世界毀滅者"
 originalTitle: "Worldbreaker"
 date: 2025-10-30T00:00:00+08:00
 draft: false
+Cover: "/posters/1196067.jpg"
 categories: ["\u79d1\u5e7b", "\u52a8\u4f5c", "\u6050\u6016"]
 tags: ["\u79d1\u5e7b", "\u52a8\u4f5c", "\u6050\u6016"]
 rating: 6.139

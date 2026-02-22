@@ -3,6 +3,7 @@ title: "天劫倒數2：大遷徙"
 originalTitle: "Greenland 2: Migration"
 date: 2026-01-07T00:00:00+08:00
 draft: false
+Cover: "/posters/840464.jpg"
 categories: ["冒险", "惊悚", "科幻"]
 tags: ["冒险", "惊悚", "科幻"]
 rating: 6.531

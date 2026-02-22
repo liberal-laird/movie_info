@@ -3,6 +3,7 @@ title: "愛情重開機"
 originalTitle: "Relationship Goals"
 date: 2026-02-04T00:00:00+08:00
 draft: false
+Cover: "/posters/1433842.jpg"
 categories: ["\u7231\u60c5", "\u559c\u5267"]
 tags: ["\u7231\u60c5", "\u559c\u5267"]
 rating: 5.667

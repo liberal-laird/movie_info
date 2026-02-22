@@ -3,6 +3,7 @@ title: "星際效應"
 originalTitle: "Interstellar"
 date: 2014-11-05T00:00:00+08:00
 draft: false
+Cover: "/posters/157336.jpg"
 categories: ["\u5192\u9669", "\u5267\u60c5", "\u79d1\u5e7b"]
 tags: ["\u5192\u9669", "\u5267\u60c5", "\u79d1\u5e7b"]
 rating: 8.467

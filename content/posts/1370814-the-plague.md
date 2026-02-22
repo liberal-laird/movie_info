@@ -3,6 +3,7 @@ title: "瘟疫"
 originalTitle: "The Plague"
 date: 2025-12-24T00:00:00+08:00
 draft: false
+Cover: "/posters/1370814.jpg"
 categories: ["\u5267\u60c5", "\u60ca\u609a"]
 tags: ["\u5267\u60c5", "\u60ca\u609a"]
 rating: 7.1

@@ -3,6 +3,7 @@ title: "Killing Faith"
 originalTitle: "Killing Faith"
 date: 2025-10-03T00:00:00+08:00
 draft: false
+Cover: "/posters/1200320.jpg"
 categories: ["\u60ca\u609a", "\u897f\u90e8"]
 tags: ["\u60ca\u609a", "\u897f\u90e8"]
 rating: 4.8

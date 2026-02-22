@@ -3,6 +3,7 @@ title: "逃亡遊戲"
 originalTitle: "The Running Man"
 date: 2025-11-11T00:00:00+08:00
 draft: false
+Cover: "/posters/798645.jpg"
 categories: ["\u52a8\u4f5c", "\u60ca\u609a", "\u79d1\u5e7b"]
 tags: ["\u52a8\u4f5c", "\u60ca\u609a", "\u79d1\u5e7b"]
 rating: 6.8

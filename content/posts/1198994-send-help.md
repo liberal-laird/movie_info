@@ -3,6 +3,7 @@ title: "荒島囚救"
 originalTitle: "Send Help"
 date: 2026-01-22T00:00:00+08:00
 draft: false
+Cover: "/posters/1198994.jpg"
 categories: ["\u6050\u6016", "\u60ca\u609a", "\u559c\u5267"]
 tags: ["\u6050\u6016", "\u60ca\u609a", "\u559c\u5267"]
 rating: 7.021

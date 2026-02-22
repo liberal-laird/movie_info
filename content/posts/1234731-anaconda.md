@@ -3,6 +3,7 @@ title: "大蟒蛇"
 originalTitle: "Anaconda"
 date: 2025-12-24T00:00:00+08:00
 draft: false
+Cover: "/posters/1234731.jpg"
 categories: ["\u5192\u9669", "\u559c\u5267", "\u6050\u6016"]
 tags: ["\u5192\u9669", "\u559c\u5267", "\u6050\u6016"]
 rating: 5.808

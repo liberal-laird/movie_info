@@ -3,6 +3,7 @@ title: "暴衝特攻隊"
 originalTitle: "The Wrecking Crew"
 date: 2026-01-28T00:00:00+08:00
 draft: false
+Cover: "/posters/1168190.jpg"
 categories: ["\u52a8\u4f5c", "\u559c\u5267", "\u72af\u7f6a", "\u60ac\u7591"]
 tags: ["\u52a8\u4f5c", "\u559c\u5267", "\u72af\u7f6a", "\u60ac\u7591"]
 rating: 6.841

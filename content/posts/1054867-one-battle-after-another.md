@@ -3,6 +3,7 @@ title: "一戰再戰"
 originalTitle: "One Battle After Another"
 date: 2025-09-23T00:00:00+08:00
 draft: false
+Cover: "/posters/1054867.jpg"
 categories: ["\u60ca\u609a", "\u72af\u7f6a", "\u52a8\u4f5c"]
 tags: ["\u60ca\u609a", "\u72af\u7f6a", "\u52a8\u4f5c"]
 rating: 7.4

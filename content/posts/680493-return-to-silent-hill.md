@@ -3,6 +3,7 @@ title: "重返沉默之丘"
 originalTitle: "Return to Silent Hill"
 date: 2026-01-21T00:00:00+08:00
 draft: false
+Cover: "/posters/680493.jpg"
 categories: ["恐怖", "悬疑"]
 tags: ["恐怖", "悬疑"]
 rating: 5.108

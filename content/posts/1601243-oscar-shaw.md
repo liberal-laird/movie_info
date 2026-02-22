@@ -3,6 +3,7 @@ title: "Oscar Shaw"
 originalTitle: "Oscar Shaw"
 date: 2026-01-09T00:00:00+08:00
 draft: false
+Cover: "/posters/1601243.jpg"
 categories: ["\u52a8\u4f5c", "\u72af\u7f6a", "\u60ca\u609a"]
 tags: ["\u52a8\u4f5c", "\u72af\u7f6a", "\u60ca\u609a"]
 rating: 6.333

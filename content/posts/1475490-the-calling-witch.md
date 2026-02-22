@@ -3,6 +3,7 @@ title: "The Calling Witch"
 originalTitle: "The Calling Witch"
 date: 2026-01-20T00:00:00+08:00
 draft: false
+Cover: "/posters/1475490.jpg"
 categories: ["\u60ca\u609a", "\u6050\u6016", "\u5267\u60c5"]
 tags: ["\u60ca\u609a", "\u6050\u6016", "\u5267\u60c5"]
 rating: 5.7

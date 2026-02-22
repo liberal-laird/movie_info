@@ -3,6 +3,7 @@ title: "“咆哮山莊”"
 originalTitle: "“Wuthering Heights”"
 date: 2026-02-11T00:00:00+08:00
 draft: false
+Cover: "/posters/1316092.jpg"
 categories: ["爱情", "剧情"]
 tags: ["爱情", "剧情"]
 rating: 6.607

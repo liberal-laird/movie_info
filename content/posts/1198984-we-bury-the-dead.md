@@ -3,6 +3,7 @@ title: "我們埋葬死者"
 originalTitle: "We Bury the Dead"
 date: 2026-01-01T00:00:00+08:00
 draft: false
+Cover: "/posters/1198984.jpg"
 categories: ["恐怖", "惊悚"]
 tags: ["恐怖", "惊悚"]
 rating: 6.260

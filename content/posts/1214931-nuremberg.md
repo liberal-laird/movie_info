@@ -3,6 +3,7 @@ title: "紐倫堡審判"
 originalTitle: "Nuremberg"
 date: 2025-11-06T00:00:00+08:00
 draft: false
+Cover: "/posters/1214931.jpg"
 categories: ["\u5386\u53f2", "\u5267\u60c5"]
 tags: ["\u5386\u53f2", "\u5267\u60c5"]
 rating: 7.357

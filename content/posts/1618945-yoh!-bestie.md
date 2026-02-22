@@ -3,6 +3,7 @@ title: "婚前脫單快樂"
 originalTitle: "Yoh! Bestie"
 date: 2026-02-06T00:00:00+08:00
 draft: false
+Cover: "/posters/1618945.jpg"
 categories: ["\u7231\u60c5", "\u559c\u5267"]
 tags: ["\u7231\u60c5", "\u559c\u5267"]
 rating: 6.136
