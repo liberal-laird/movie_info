@@ -1,7 +1,7 @@
 ---
 title: "日租家庭"
 originalTitle: "Rental Family"
-date: 2025-11-20T00:00:00+08:00
+date: 2026-02-22T02:00:15+08:00
 draft: false
 Cover: "/posters/1208348.jpg"
 categories: ["剧情", "喜剧"]

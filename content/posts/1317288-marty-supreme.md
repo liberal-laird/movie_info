@@ -1,7 +1,7 @@
 ---
 title: "橫衝直闖"
 originalTitle: "Marty Supreme"
-date: 2025-12-19T00:00:00+08:00
+date: 2026-02-22T02:00:10+08:00
 draft: false
 Cover: "/posters/1317288.jpg"
 categories: ["剧情"]

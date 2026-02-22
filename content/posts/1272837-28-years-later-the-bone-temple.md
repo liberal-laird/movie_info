@@ -1,7 +1,7 @@
 ---
 title: "28年毀滅倒數：人骨聖殿"
 originalTitle: "28 Years Later: The Bone Temple"
-date: 2026-01-14T00:00:00+08:00
+date: 2026-02-22T02:00:09+08:00
 draft: false
 Cover: "/posters/1272837.jpg"
 categories: ["恐怖", "惊悚", "科幻"]
