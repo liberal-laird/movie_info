@@ -169,7 +169,7 @@ def git_commit_push(message):
     # Hugo 测试构建
     print("🔨 测试 Hugo 构建...")
     hugo_result = subprocess.run(
-        ["hugo", "-D", "--quiet"],
+        ["hugo", "-D", "--quiet", "--buildFuture"],
         capture_output=True, text=True, cwd=REPO_DIR
     )
     if hugo_result.returncode != 0:
@@ -212,7 +212,7 @@ def git_commit_push(message):
                 f.write(f"Message: {commit_info['message']}\n")
             
             # 重新构建 Hugo (会覆盖 public)
-            subprocess.run(["hugo", "-D", "--quiet"], capture_output=True, cwd=REPO_DIR)
+            subprocess.run(["hugo", "-D", "--quiet", "--buildFuture"], capture_output=True, cwd=REPO_DIR)
             
             # 再次写入日志文件
             with open(log_file, "w", encoding="utf-8") as f:
