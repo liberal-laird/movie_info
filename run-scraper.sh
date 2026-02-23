@@ -9,7 +9,7 @@ echo "🎬 MovieZone 爬蟲開始執行"
 echo "=========================="
 
 # 進入專案目錄
-cd /root/movie_info
+cd /root/workspace/movie_info
 
 # 設置 API Key
 export TMDB_API_KEY="API_KEY_PLACEHOLDER"
