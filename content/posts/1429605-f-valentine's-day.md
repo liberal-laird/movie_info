@@ -8,7 +8,7 @@ categories: ["\u7231\u60c5", "\u559c\u5267"]
 tags: ["\u7231\u60c5", "\u559c\u5267"]
 rating: 5.978
 ratingCount: 23
-plot: ""
+plot: "''"
 imdbId: "tt34622232"
 tmdbId: 1429605
 ---

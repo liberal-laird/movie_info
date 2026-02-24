@@ -8,7 +8,7 @@ categories: ["\u60ca\u609a", "\u897f\u90e8"]
 tags: ["\u60ca\u609a", "\u897f\u90e8"]
 rating: 4.8
 ratingCount: 20
-plot: ""
+plot: "''"
 imdbId: "tt29101725"
 tmdbId: 1200320
 ---

@@ -8,7 +8,7 @@ categories: ["\u6050\u6016"]
 tags: ["\u6050\u6016"]
 rating: 6.9
 ratingCount: 26
-plot: ""
+plot: "''"
 imdbId: "tt30842022"
 tmdbId: 1242937
 ---

@@ -8,7 +8,7 @@ categories: ["科幻", "动作", "冒险", "喜剧"]
 tags: ["科幻", "动作", "冒险", "喜剧"]
 rating: 7.421
 ratingCount: 19
-plot: ""
+plot: "''"
 imdbId: "tt1341338"
 tmdbId: 1119449
 ---

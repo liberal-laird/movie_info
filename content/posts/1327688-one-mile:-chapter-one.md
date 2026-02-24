@@ -8,7 +8,7 @@ categories: ["\u52a8\u4f5c", "\u72af\u7f6a"]
 tags: ["\u52a8\u4f5c", "\u72af\u7f6a"]
 rating: 7.7
 ratingCount: 21
-plot: ""
+plot: "''"
 imdbId: "tt24326458"
 tmdbId: 1327688
 ---

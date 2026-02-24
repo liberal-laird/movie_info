@@ -8,7 +8,7 @@ categories: ["\u6050\u6016", "\u60ac\u7591"]
 tags: ["\u6050\u6016", "\u60ac\u7591"]
 rating: 4.5
 ratingCount: 20
-plot: ""
+plot: "''"
 imdbId: "tt8637438"
 tmdbId: 1323625
 ---

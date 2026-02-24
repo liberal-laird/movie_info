@@ -2,77 +2,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://movie.solotrade.xyz/categories/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://movie.solotrade.xyz/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/tags/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/tags/%E7%8A%AF%E7%BD%AA/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E7%8A%AF%E7%BD%AA/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/tags/%E6%81%90%E6%80%96/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E6%81%90%E6%80%96/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/tags/%E6%82%AC%E7%96%91/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E6%82%AC%E7%96%91/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
+    <lastmod>2026-02-25T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://movie.solotrade.xyz/posts/1159559-scream-7/</loc>
-    <lastmod>2026-02-22T00:00:00+08:00</lastmod>
+    <loc>https://movie.solotrade.xyz/categories/</loc>
+    <lastmod>2026-02-23T10:33:29+08:00</lastmod>
   </url><url>
-    <loc>https://movie.solotrade.xyz/posts/1119449-good-luck-have-fun-dont-die/</loc>
-    <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    <loc>https://movie.solotrade.xyz/tags/</loc>
+    <lastmod>2026-02-23T10:33:29+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2026-02-23T10:33:29+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/27205-inception/</loc>
+    <lastmod>2026-02-23T10:33:29+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/tags/%E5%8A%A8%E4%BD%9C/</loc>
-    <lastmod>2026-02-13T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E5%8A%A8%E4%BD%9C/</loc>
-    <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    <lastmod>2026-02-23T10:33:29+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/tags/%E5%86%92%E9%99%A9/</loc>
-    <lastmod>2026-02-13T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E5%86%92%E9%99%A9/</loc>
-    <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    <lastmod>2026-02-23T10:33:29+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/tags/%E7%A7%91%E5%B9%BB/</loc>
-    <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    <lastmod>2026-02-23T10:33:29+08:00</lastmod>
   </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E7%A7%91%E5%B9%BB/</loc>
-    <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    <loc>https://movie.solotrade.xyz/categories/%E5%8B%95%E4%BD%9C/</loc>
+    <lastmod>2026-02-23T10:27:02+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%E6%B8%AC%E8%A9%A6/</loc>
+    <lastmod>2026-02-23T10:27:02+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/test-movie-20260223102702/</loc>
+    <lastmod>2026-02-23T10:27:02+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2026-02-23T10:27:02+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1208348-rental-family/</loc>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1198984-we-bury-the-dead/</loc>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%E5%89%A7%E6%83%85/</loc>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E5%89%A7%E6%83%85/</loc>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%E6%81%90%E6%80%96/</loc>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E6%81%90%E6%80%96/</loc>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%E6%83%8A%E6%82%9A/</loc>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E6%83%8A%E6%82%9A/</loc>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/tags/%E5%96%9C%E5%89%A7/</loc>
-    <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/categories/%E5%96%9C%E5%89%A7/</loc>
-    <lastmod>2026-02-13T00:00:00+08:00</lastmod>
+    <lastmod>2026-02-22T02:00:15+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1119449-good-luck-have-fun-dont-die/</loc>
+    <lastmod>2026-02-22T02:00:14+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E5%8A%A8%E4%BD%9C/</loc>
+    <lastmod>2026-02-22T02:00:14+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E5%86%92%E9%99%A9/</loc>
+    <lastmod>2026-02-22T02:00:14+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E7%A7%91%E5%B9%BB/</loc>
+    <lastmod>2026-02-22T02:00:14+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1271895-96%E5%88%86%E9%90%98/</loc>
+    <lastmod>2026-02-22T02:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%E7%8A%AF%E7%BD%AA/</loc>
+    <lastmod>2026-02-22T02:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E7%8A%AF%E7%BD%AA/</loc>
+    <lastmod>2026-02-22T02:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%E7%88%B1%E6%83%85/</loc>
+    <lastmod>2026-02-22T02:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E7%88%B1%E6%83%85/</loc>
+    <lastmod>2026-02-22T02:00:11+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1316092-wuthering-heights/</loc>
+    <lastmod>2026-02-22T02:00:09+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1272837-28-years-later-the-bone-temple/</loc>
+    <lastmod>2026-02-22T02:00:09+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1327688-one-mile-chapter-one/</loc>
+    <lastmod>2026-02-20T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1549519-sex-trip/</loc>
+    <lastmod>2026-02-20T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1242937-the-dreadful/</loc>
+    <lastmod>2026-02-20T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1428862-cortafuego/</loc>
+    <lastmod>2026-02-19T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2026-02-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2026-02-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1305781-%E9%95%96%E4%BA%BA%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0/</loc>
+    <lastmod>2026-02-17T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%5C%5Cu559c%5Cu5267%5C/</loc>
+    <lastmod>2026-02-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%5C%5Cu559c%5Cu5267%5C/</loc>
+    <lastmod>2026-02-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1243460-joes-college-road-trip/</loc>
+    <lastmod>2026-02-12T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1429605-f-valentines-day/</loc>
     <lastmod>2026-02-12T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://movie.solotrade.xyz/tags/%E7%88%B1%E6%83%85/</loc>
+    <loc>https://movie.solotrade.xyz/posts/1317672-love-me-love-me/</loc>
     <lastmod>2026-02-12T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E7%88%B1%E6%83%85/</loc>
-    <lastmod>2026-02-12T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/posts/1316092-wuthering-heights/</loc>
-    <lastmod>2026-02-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1316092-wuthering-heights/</loc>
     <lastmod>2026-02-11T00:00:00+08:00</lastmod>
@@ -89,28 +155,22 @@
     <loc>https://movie.solotrade.xyz/categories/%E5%8A%A8%E7%94%BB/</loc>
     <lastmod>2026-02-11T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://movie.solotrade.xyz/tags/%E5%89%A7%E6%83%85/</loc>
-    <lastmod>2026-02-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E5%89%A7%E6%83%85/</loc>
-    <lastmod>2026-02-11T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://movie.solotrade.xyz/tags/%E5%AE%B6%E5%BA%AD/</loc>
     <lastmod>2026-02-11T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/categories/%E5%AE%B6%E5%BA%AD/</loc>
     <lastmod>2026-02-11T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://movie.solotrade.xyz/tags/%E6%83%8A%E6%82%9A/</loc>
-    <lastmod>2026-02-11T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E6%83%8A%E6%82%9A/</loc>
-    <lastmod>2026-02-11T00:00:00+08:00</lastmod>
+    <loc>https://movie.solotrade.xyz/posts/1426964-salve-geral-irmandade/</loc>
+    <lastmod>2026-02-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1373198-twisted/</loc>
     <lastmod>2026-02-06T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1618945-yoh-bestie/</loc>
+    <lastmod>2026-02-06T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1110034-kraken/</loc>
     <lastmod>2026-02-06T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1291335-solo-mio/</loc>
@@ -134,6 +194,12 @@
     <loc>https://movie.solotrade.xyz/categories/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2026-02-03T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%E6%82%AC%E7%96%91/</loc>
+    <lastmod>2026-01-30T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%E6%82%AC%E7%96%91/</loc>
+    <lastmod>2026-01-30T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://movie.solotrade.xyz/posts/1116201-iron-lung/</loc>
     <lastmod>2026-01-30T00:00:00+08:00</lastmod>
   </url><url>
@@ -142,6 +208,27 @@
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1168190-the-wrecking-crew/</loc>
     <lastmod>2026-01-28T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%5C%5Cu52a8%5Cu4f5c%5C/</loc>
+    <lastmod>2026-01-27T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%5C%5Cu52a8%5Cu4f5c%5C/</loc>
+    <lastmod>2026-01-27T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%5C%5Cu60ca%5Cu609a%5C/</loc>
+    <lastmod>2026-01-27T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%5C%5Cu60ca%5Cu609a%5C/</loc>
+    <lastmod>2026-01-27T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/tags/%5C%5Cu7231%5Cu60c5%5C/</loc>
+    <lastmod>2026-01-27T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/categories/%5C%5Cu7231%5Cu60c5%5C/</loc>
+    <lastmod>2026-01-27T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1340076-untitled-home-invasion-romance/</loc>
+    <lastmod>2026-01-27T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/tags/%E7%BA%AA%E5%BD%95/</loc>
     <lastmod>2026-01-27T00:00:00+08:00</lastmod>
@@ -163,6 +250,9 @@
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1236153-mercy/</loc>
     <lastmod>2026-01-20T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1323625-night-patrol/</loc>
+    <lastmod>2026-01-16T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1412598-killer-whale/</loc>
     <lastmod>2026-01-16T00:00:00+08:00</lastmod>
@@ -194,11 +284,14 @@
     <loc>https://movie.solotrade.xyz/posts/840464-greenland-2-migration/</loc>
     <lastmod>2026-01-07T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://movie.solotrade.xyz/posts/1198984-we-bury-the-dead/</loc>
-    <lastmod>2026-01-01T00:00:00+08:00</lastmod>
+    <loc>https://movie.solotrade.xyz/posts/840464-greenland-2-migration/</loc>
+    <lastmod>2026-01-07T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1315303-primate/</loc>
     <lastmod>2026-01-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1193128-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D8%A7%D8%A1/</loc>
+    <lastmod>2025-12-31T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1234731-anaconda/</loc>
     <lastmod>2025-12-24T00:00:00+08:00</lastmod>
@@ -211,6 +304,9 @@
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1368166-the-housemaid/</loc>
     <lastmod>2025-12-18T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/991494-the-spongebob-movie-search-for-squarepants/</loc>
+    <lastmod>2025-12-16T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1167307-david/</loc>
     <lastmod>2025-12-14T00:00:00+08:00</lastmod>
@@ -230,17 +326,11 @@
     <loc>https://movie.solotrade.xyz/posts/1228246-five-nights-at-freddys-2/</loc>
     <lastmod>2025-12-03T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://movie.solotrade.xyz/tags/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2025-11-26T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/categories/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2025-11-26T00:00:00+08:00</lastmod>
+    <loc>https://movie.solotrade.xyz/posts/1287141-pillion/</loc>
+    <lastmod>2025-11-28T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/858024-hamnet/</loc>
     <lastmod>2025-11-26T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://movie.solotrade.xyz/posts/1208348-rental-family/</loc>
-    <lastmod>2025-11-20T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1448560-wildcat/</loc>
     <lastmod>2025-11-19T00:00:00+08:00</lastmod>
@@ -262,6 +352,9 @@
   </url><url>
     <loc>https://movie.solotrade.xyz/categories/%E6%88%98%E4%BA%89/</loc>
     <lastmod>2025-10-21T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1253000-deathstalker/</loc>
+    <lastmod>2025-10-10T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1242419-roofman/</loc>
     <lastmod>2025-10-08T00:00:00+08:00</lastmod>
@@ -287,9 +380,6 @@
     <loc>https://movie.solotrade.xyz/posts/1054867-one-battle-after-another/</loc>
     <lastmod>2025-09-23T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://movie.solotrade.xyz/posts/1271895-96%E5%88%86%E9%90%98/</loc>
-    <lastmod>2025-09-05T00:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://movie.solotrade.xyz/posts/1408208-%EF%BC%98%E7%95%AA%E5%87%BA%E5%8F%A3/</loc>
     <lastmod>2025-08-28T00:00:00+08:00</lastmod>
   </url><url>
@@ -298,6 +388,9 @@
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1419406-%E6%8D%95%E9%A3%8E%E8%BF%BD%E5%BD%B1/</loc>
     <lastmod>2025-08-16T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://movie.solotrade.xyz/posts/1503900-dieced-reloaded/</loc>
+    <lastmod>2025-08-08T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://movie.solotrade.xyz/posts/1246049-dracula/</loc>
     <lastmod>2025-07-30T00:00:00+08:00</lastmod>

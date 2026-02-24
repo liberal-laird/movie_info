@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>測試 on MovieZone 電影資訊</title>
+    <link>https://movie.solotrade.xyz/tags/%E6%B8%AC%E8%A9%A6/</link>
+    <description>Recent content in 測試 on MovieZone 電影資訊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 23 Feb 2026 10:27:02 +0800</lastBuildDate>
+    <atom:link href="https://movie.solotrade.xyz/tags/%E6%B8%AC%E8%A9%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>測試電影 2026-02-23 10:27:02</title>
+      <link>https://movie.solotrade.xyz/posts/test-movie-20260223102702/</link>
+      <pubDate>Mon, 23 Feb 2026 10:27:02 +0800</pubDate>
+      <guid>https://movie.solotrade.xyz/posts/test-movie-20260223102702/</guid>
+      <description>這是一個測試電影文件，用於演示爬蟲腳本的執行。&#xA;劇情簡介 這是一部測試用的電影描述。&#xA;演員陣容 測試演員 1 測試演員 2 技術細節 導演: 測試導演 片長: 120分鐘 語言: 中文 </description>
+    </item>
+  </channel>
+</rss>
