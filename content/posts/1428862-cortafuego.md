@@ -6,8 +6,8 @@ draft: false
 Cover: "/posters/1428862.jpg"
 categories: ["\u60ca\u609a", "\u5267\u60c5"]
 tags: ["\u60ca\u609a", "\u5267\u60c5"]
-rating: 5.963
-ratingCount: 27
+rating: 6.1
+ratingCount: 29
 plot: "全家在打包搬家時，小莉德居然跑進森林失蹤了。豈料火苗竄起，媽媽必須與時間賽跑，在火勢蔓延前找到她。"
 imdbId: "tt33474179"
 tmdbId: 1428862
@@ -25,7 +25,7 @@ Cortafuego
 
 ## 評分
 
-⭐ 5.963/10 (27 票)
+⭐ 6.1/10 (29 票)
 
 ## 主要演員
 
